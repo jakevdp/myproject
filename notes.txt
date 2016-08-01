@@ -1,2 +1,3 @@
 - use good commit messages
 - use checkout to check-out old commits
+- use clone to get a new copy of a remote repository

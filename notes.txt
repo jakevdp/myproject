@@ -1,1 +1,2 @@
 - use good commit messages
+- use checkout to check-out old commits
